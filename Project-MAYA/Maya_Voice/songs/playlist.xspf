@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/dheere_dheere.mp3</location>
+			<title>Dheere Dheere - Papa.PK</title>
+			<creator>Yo Yo Honey Singh</creator>
+			<album>Single - Papa.PK</album>
+			<annotation>Papa.PK</annotation>
+			<image>file:///C:/Users/FLAMER/AppData/Roaming/vlc/art/artistalbum/Yo%20Yo%20Honey%20Singh/Single%20-%20Papa.PK/art</image>
+			<duration>211086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/Dil_diya_gallan.mp3</location>
+			<title>Dil Diyan Gallan - PagalWorld.La</title>
+			<creator>Atif Aslam - PagalWorld.La</creator>
+			<album>Tiger Zinda Hai - PagalWorld.La</album>
+			<trackNum>2</trackNum>
+			<annotation>Very Good</annotation>
+			<image>file:///C:/Users/FLAMER/AppData/Roaming/vlc/art/artistalbum/Atif%20Aslam%20-%20PagalWorld.La/Tiger%20Zinda%20Hai%20-%20PagalWorld.La/art.jpg</image>
+			<duration>260602</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/cham_cham.mp3</location>
+			<title>Cham Cham -  www.mGaana.iN</title>
+			<creator>Monali Thakur</creator>
+			<album>Baaghi</album>
+			<trackNum>1</trackNum>
+			<annotation>www.mGaana.iN</annotation>
+			<image>file:///C:/Users/FLAMER/AppData/Roaming/vlc/art/artistalbum/Monali%20Thakur/Baaghi/art.jpg</image>
+			<duration>284056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/dheere_dheere.mp3</location>
+			<title>Dheere Dheere - Papa.PK</title>
+			<creator>Yo Yo Honey Singh</creator>
+			<album>Single - Papa.PK</album>
+			<annotation>Papa.PK</annotation>
+			<image>file:///C:/Users/FLAMER/AppData/Roaming/vlc/art/artistalbum/Yo%20Yo%20Honey%20Singh/Single%20-%20Papa.PK/art</image>
+			<duration>211086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/janam_janam.mp3</location>
+			<title>Janam Janam - Fullwap.in</title>
+			<creator>Antara Mitra, Arijit Singh</creator>
+			<album>Dilwale</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/FLAMER/AppData/Roaming/vlc/art/artistalbum/Antara%20Mitra%2C%20Arijit%20Singh/Dilwale/art.jpg</image>
+			<duration>238006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Kailash/Desktop/Project-MAYA/Maya_Voice/songs/main_lad_jana.mkv</location>
+			<duration>145862</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
