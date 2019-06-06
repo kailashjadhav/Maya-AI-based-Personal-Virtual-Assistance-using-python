@@ -40,7 +40,7 @@ mp3_ok_list = ['Maya_Voice/okay-sir.mp3']
 error_occurence = 0
 counter = 0
 
-polly = boto3.client('polly', region_name='ap-south-1', aws_access_key_id='AKIAIOSJV73QQY5PPRLA', aws_secret_access_key='paedLfp28NwA1SUTO/JDCpTxqTG8HeIvo+afgYC7')
+polly = boto3.client('polly', region_name='ap-south-1', aws_access_key_id='your AWS key', aws_secret_access_key='AWS Key')
 
 def play_sound_from_polly(result):
     global counter
